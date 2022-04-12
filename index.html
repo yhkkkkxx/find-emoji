@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Emoji</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="#">
+    <script src="main.js" defer></script>
+    <script src="https://kit.fontawesome.com/66efca56d3.js" 
+    crossorigin="anonymous"></script>
+</head>
+<body>
+    <section class="game">
+        <header>🔎 𝗙𝗶𝗻𝗱 𝗘𝗺𝗼𝗷𝗶 🔍</header>
+        <audio src="audio/Erik-satie-gymnopedie-no1-piano.mp3" class="background-sound"></audio>
+        <div class="upper-bar">
+            <div class="timer">00 : 00</div> 
+            <div class="left-num">rainbow man
+                <span class="num"></span>
+            </div>
+            <div class="btn">
+                <button class="start-btn">
+                    <i class="fa-solid fa-play"></i>
+                </button>
+                <button class="stop-btn">
+                    <i class="fa-solid fa-stop"></i>
+                </button>
+            </div>
+        </div>
+        <div class="screen start-screen">
+            <div class="info-text">
+                Welcome to "Find Emoji" Game<br/>
+                Find five RAINBOW MAN
+                    <img class="rainbow-emoji" src="img/Ranibow Sunglasses Emoji.png" width="100px" height="auto">
+                in 30 seconds<br/>
+                You can find RAINBOW MAN with sound<br/>
+                If time is up or you click other emojis, game will be over
+            </div>
+            <div class="counter"></div>
+        </div>
+        <div class="screen game-screen">
+            <audio src="audio/bubble.mp3" class="hover-sound"></audio>
+        </div>
+        <div class="screen result-screen">
+            <div class="canvas"></div>
+            <div class="text stop">Game is stopped</div>
+            <div class="text success">⭐Congratulations⭐ <br/> You found all rainbow man!</div>
+            <div class="text fail">Try again..</div>
+            <button class="replay-btn">
+                <i class="fa-solid fa-arrow-rotate-left"></i>
+            </button>
+            <audio src="audio/success.mp3" class="success-sound"></audio>
+            <audio src="audio/fail.mp3" class="fail-sound"></audio>
+            <audio src="audio/click.mp3" class="click-sound"></audio>
+        </div>
+    </section>
+</body>
+</html>

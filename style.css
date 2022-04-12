@@ -1,0 +1,220 @@
+@font-face {
+    font-family: 'consolas';
+    src: url('./font/consolas.woff') format('woff');
+}
+
+* {
+    box-sizing: border-box;
+    font-family: consolas;
+    user-select: none;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+}
+
+button {
+    width: 60px;
+    height: 60px;
+    background: none;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 30px;
+    line-height: 58px;
+    cursor: pointer;
+    transition: transform 200ms ease;
+    margin: 0 70px;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+header {
+    margin: 20px 0 0;
+    font-size: 80px;
+}
+
+.game {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.upper-bar {
+    background-color: rgb(51, 51, 51);
+    width: 1400px;
+    height: auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.timer {
+    width: 200px;
+    height: 60px;
+    margin: 20px;
+    font-size: 30px;
+    line-height: 60px;
+    color: white;
+    text-align: center;
+}
+
+.left-num {
+    width: 250px;
+    height: 60px;
+    margin: 20px;
+    font-size: 30px;
+    line-height: 60px;
+    color: white;
+    text-align: center;
+}
+
+.num {
+    color: red;
+}
+
+.btn {
+    width: 200px;
+    height: 60px;
+    margin: 20px;
+    position: relative;
+    right: -38px;
+}
+
+
+
+.stop-btn {
+    display: none;
+}
+
+.left-num {
+    display: none;
+}
+
+
+.screen {
+    width: 1400px;
+    height: 700px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 30px;
+    position: relative;
+}
+
+.start-screen {
+    background: rgb(255,0,0);
+    background: linear-gradient(135deg, rgba(255,0,0,1) 0%, rgba(255,0,255,1) 15%, rgba(0,0,137,1) 33%, rgba(0,255,255,1) 49%, rgba(0,255,0,1) 67%, rgba(255,255,0,1) 84%, rgba(255,0,0,1) 100%);
+}
+
+.info-text {    
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 155px;
+    text-shadow: -1px 0 rgb(255, 255, 255), 0 1px rgb(255, 255, 255), 1px 0 rgb(255, 255, 255), 0 -1px rgb(255, 255, 255);
+    text-align: center;
+}
+
+.rainbow-emoji {
+    border:  -1px 0 rgb(255, 255, 255), 0 1px rgb(255, 255, 255), 1px 0 rgb(255, 255, 255), 0 -1px rgb(255, 255, 255);
+    position: relative;
+    top: 25px;
+    border: 3px solid white;
+    border-radius: 100px;
+}
+
+.counter {
+    font-size: 100px;
+    font-weight: 700;
+    text-shadow: -1px 0 rgb(255, 255, 255), 0 1px rgb(255, 255, 255), 1px 0 rgb(255, 255, 255), 0 -1px rgb(255, 255, 255);
+    text-align: center;
+    line-height: 650px;
+    display: none;
+}
+
+.game-screen {
+    z-index: 1;
+    display: none;
+    background: rgb(255,0,0);
+    background: linear-gradient(135deg, rgba(255,0,0,1) 0%, rgba(255,0,255,1) 15%, rgba(0,0,137,1) 33%, rgba(0,255,255,1) 49%, rgba(0,255,0,1) 67%, rgba(255,255,0,1) 84%, rgba(255,0,0,1) 100%);
+}
+
+.result-screen {
+    position: absolute;
+    z-index: 2;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: none;
+    top: 257px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.canvas {
+    background-color: white;
+    opacity: .7;
+    width: 1400px;
+    height: 700px;
+    position: absolute;
+    z-index: -1;
+}
+
+.text {
+    display: none;
+}
+
+.replay-btn {
+    width: 120px;
+    height: 120px;
+    color: black;
+    font-size: 80px;
+    margin: 20px;
+}
+
+.emoji {
+    display: inline;
+    position: absolute;
+    width: 60px;
+    height: auto;
+    cursor: pointer;
+    transition: transform 300ms ease;
+}
+
+.emoji:hover {
+    transform: scale(1.1);
+}
+
+.emoji {
+    display: inline;
+    position: absolute;
+    width: 60px;
+    height: auto;
+    cursor: pointer;
+    transition: transform 300ms ease;
+}
+
+.emoji:hover {
+    transform: scale(1.1);
+}
+
+.rainbowman:hover {
+    transform: scale(1.3);
+}
+
+
+/* .screen {
+    width: 700px;
+    height: 400px;
+    background-color: white;
+    opacity: .7;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 150px;
+} */
