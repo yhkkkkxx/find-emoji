@@ -1,5 +1,5 @@
 # find-emoji
-a game to find Rainbow Man emoji 😎
+a game to find Rainbow Man emoji 😎🌈
 
 + *with HTML, CSS, JavaScript, JSON*   
 + *completed this project on April 12nd, 2022*  
