@@ -1,0 +1,348 @@
+{
+    "items": [
+        {
+            "name": "img01",
+            "image": "./img/Angel Halo Emoji.png"
+        },
+        {
+            "name": "img02",
+            "image": "./img/Angry Emoji.png"
+        },
+        {
+            "name": "img03",
+            "image": "./img/Angry Emoji2.png"
+        },
+        {
+            "name": "img04",
+            "image": "./img/Anguished Emoji.png"
+        },
+        {
+            "name": "img05",
+            "image": "./img/Blow Kiss Emoji.png"
+        },
+        {
+            "name": "img06",
+            "image": "./img/Blushed Smiling Emoji.png"
+        },
+        {
+            "name": "img07",
+            "image": "./img/Cold Emoji.png"
+        },
+        {
+            "name": "img08",
+            "image": "./img/Confounded Emoji.png"
+        },
+        {
+            "name": "img09",
+            "image": "./img/Confused Emoji.png"
+        },
+        {
+            "name": "img10",
+            "image": "./img/Cowboy Emoji.png"
+        },
+        {
+            "name": "img11",
+            "image": "./img/Crying Emoji.png"
+        },
+        {
+            "name": "img12",
+            "image": "./img/Crying Sad Emoji.png"
+        },
+        {
+            "name": "img13",
+            "image": "./img/Dizzy Emoji.png"
+        },
+        {
+            "name": "img14",
+            "image": "./img/Drooling Emoji.png"
+        },
+        {
+            "name": "img15",
+            "image": "./img/Drunk Emoji.png"
+        },
+        {
+            "name": "img16",
+            "image": "./img/Drunk Face Emoji.png"
+        },
+        {
+            "name": "img17",
+            "image": "./img/EmojiWithout Mouth Emoji.png"
+        },
+        {
+            "name": "img18",
+            "image": "./img/Emotionless Kiss Emoji.png"
+        },
+        {
+            "name": "img19",
+            "image": "./img/Exploding Face Emoji.png"
+        },
+        {
+            "name": "img20",
+            "image": "./img/Expressionless Emoji.png"
+        },
+        {
+            "name": "img21",
+            "image": "./img/Eye Roll Emoji.png"
+        },
+        {
+            "name": "img22",
+            "image": "./img/Fearful Emoji.png"
+        },
+        {
+            "name": "img23",
+            "image": "./img/Flushed Emoji.png"
+        },
+        {
+            "name": "img24",
+            "image": "./img/Frowning Emoji.png"
+        },
+        {
+            "name": "img25",
+            "image": "./img/Grimacing Emoji.png"
+        },
+        {
+            "name": "img26",
+            "image": "./img/Happy Emoji.png"
+        },
+        {
+            "name": "img27",
+            "image": "./img/Heart Eyes Emoji.png"
+        },
+        {
+            "name": "img28",
+            "image": "./img/Hot Emoji.png"
+        },
+        {
+            "name": "img29",
+            "image": "./img/Hugging Emoji.png"
+        },
+        {
+            "name": "img30",
+            "image": "./img/Hungry Emoji.png"
+        },
+        {
+            "name": "img31",
+            "image": "./img/Hurt Emoji.png"
+        },
+        {
+            "name": "img32",
+            "image": "./img/Kiss Emoji.png"
+        },
+        {
+            "name": "img33",
+            "image": "./img/Kissing Emoji.png"
+        },
+        {
+            "name": "img34",
+            "image": "./img/Laughing Emoji.png"
+        },
+        {
+            "name": "img35",
+            "image": "./img/Loudly Crying Emoji.png"
+        },
+        {
+            "name": "img36",
+            "image": "./img/Money Emoji.png"
+        },
+        {
+            "name": "img37",
+            "image": "./img/Nerd Emoji.png"
+        },
+        {
+            "name": "img38",
+            "image": "./img/Neutral Emoji.png"
+        },
+        {
+            "name": "img39",
+            "image": "./img/New Mad Emoji.png"
+        },
+        {
+            "name": "img40",
+            "image": "./img/New Thinking Emoji.png"
+        },
+        {
+            "name": "img41",
+            "image": "./img/Omg Emoji.png"
+        },
+        {
+            "name": "img42",
+            "image": "./img/Oops Emoji.png"
+        },
+        {
+            "name": "img43",
+            "image": "./img/Party Face Emoji.png"
+        },
+        {
+            "name": "img44",
+            "image": "./img/Persevering Emoji.png"
+        },
+        {
+            "name": "img45",
+            "image": "./img/Pinocchio Emoji.png"
+        },
+        {
+            "name": "img46",
+            "image": "./img/Poisoned Emoji.png"
+        },
+        {
+            "name": "img47",
+            "image": "./img/Puke Emoji.png"
+        },
+        {
+            "name": "img48",
+            "image": "./img/Relieved Emoji.png"
+        },
+        {
+            "name": "img49",
+            "image": "./img/Sad Emoji.png"
+        },
+        {
+            "name": "img50",
+            "image": "./img/Sad Emoji2.png"
+        },
+        {
+            "name": "img51",
+            "image": "./img/Shh Emoji.png"
+        },
+        {
+            "name": "img52",
+            "image": "./img/Shy Emoji.png"
+        },
+        {
+            "name": "img53",
+            "image": "./img/Sick Emoji1.png"
+        },
+        {
+            "name": "img54",
+            "image": "./img/Sick Emoji2.png"
+        },
+        {
+            "name": "img55",
+            "image": "./img/Sleeping Emoji.png"
+        },
+        {
+            "name": "img56",
+            "image": "./img/Slightly Smiling Emoji.png"
+        },
+        {
+            "name": "img57",
+            "image": "./img/Smile Emoji With Hearts.png"
+        },
+        {
+            "name": "img58",
+            "image": "./img/Smile Emoji.png"
+        },
+        {
+            "name": "img59",
+            "image": "./img/Smiling Emoji.png"
+        },
+        {
+            "name": "img60",
+            "image": "./img/Smiling With Closed Eyes Emoji.png"
+        },
+        {
+            "name": "img61",
+            "image": "./img/Smirk Emoji.png"
+        },
+        {
+            "name": "img62",
+            "image": "./img/Sneezing Emoji.png"
+        },
+        {
+            "name": "img63",
+            "image": "./img/Snoring Emoji.png"
+        },
+        {
+            "name": "img64",
+            "image": "./img/Star Eyes Emoji.png"
+        },
+        {
+            "name": "img65",
+            "image": "./img/Super Surprised Emoji.png"
+        },
+        {
+            "name": "img66",
+            "image": "./img/Surprised Emoji PNG.png"
+        },
+        {
+            "name": "img67",
+            "image": "./img/Surprised Emoji.png"
+        },
+        {
+            "name": "img68",
+            "image": "./img/Sweat Emoji.png"
+        },
+        {
+            "name": "img69",
+            "image": "./img/Sweat With Smile Emoji.png"
+        },
+        {
+            "name": "img70",
+            "image": "./img/Tears Emoji.png"
+        },
+        {
+            "name": "img71",
+            "image": "./img/Tears Of Joy Emoji.png"
+        },
+        {
+            "name": "img72",
+            "image": "./img/Thinking Emoji.png"
+        },
+        {
+            "name": "img73",
+            "image": "./img/Tired Emoji.png"
+        },
+        {
+            "name": "img74",
+            "image": "./img/Tongue Out Emoji1.png"
+        },
+        {
+            "name": "img75",
+            "image": "./img/Tongue Out Emoji2.png"
+        },
+        {
+            "name": "img76",
+            "image": "./img/Tongue Out Emoji3.png"
+        },
+        {
+            "name": "img77",
+            "image": "./img/Unamused Emoji.png"
+        },
+        {
+            "name": "img78",
+            "image": "./img/Unhappy Emoji.png"
+        },
+        {
+            "name": "img79",
+            "image": "./img/Upside Down Smiling Emoji.png"
+        },
+        {
+            "name": "img80",
+            "image": "./img/Very Happy Emoji.png"
+        },
+        {
+            "name": "img81",
+            "image": "./img/Very Mad Emoji.png"
+        },
+        {
+            "name": "img82",
+            "image": "./img/Very Sad Emoji.png"
+        },
+        {
+            "name": "img83",
+            "image": "./img/Weary Emoji.png"
+        },
+        {
+            "name": "img84",
+            "image": "./img/Wink Emoji.png"
+        },
+        {
+            "name": "img85",
+            "image": "./img/Worried Emoji.png"
+        },
+        {
+            "name": "img86",
+            "image": "./img/Zipper Mouth Emoji.png"
+        }
+    ]
+}
