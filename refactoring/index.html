@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <script src="./src/main.js" defer></script>
+    <script type="module" src="./src/main.js" defer></script>
     <script src="https://kit.fontawesome.com/66efca56d3.js" 
     crossorigin="anonymous"></script>
     <title>Find Emoji</title>
@@ -14,7 +14,7 @@
     <section class="header">🔎 𝗙𝗶𝗻𝗱 𝗘𝗺𝗼𝗷𝗶 🔍</section>
     <section class="game">
         <div class="game-bar">
-            <div class="game-timer">00 : 00</div>
+            <div class="game-timer game-timer--hide">00 : 00</div>
             <div class="game-score game-score--hide">
                 Rainbow Man
                 <span class="score-num"></span>
@@ -24,6 +24,14 @@
             </button>
         </div>
         <div class="game-screen">
+            <div class="info-text">
+                Welcome to "Find Emoji" Game<br/>
+                Find five RAINBOW MAN
+                    <img class="rainbow-emoji" src="img/Ranibow Sunglasses Emoji.png">
+                in 30 seconds<br/>
+                You can find RAINBOW MAN with sound<br/>
+                If time is up or you click other emojis, game will be over
+            </div>
         </div>
     </section>
     <section class="pop-up pop-up--hide">

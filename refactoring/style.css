@@ -48,6 +48,10 @@ button:hover {
     background-color: rgb(71, 71, 71);
 }
 
+.game-timer--hide {
+    visibility: hidden;
+}
+
 .score-num {
     color: red;
 }
